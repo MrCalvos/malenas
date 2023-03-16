@@ -1,0 +1,26 @@
+*{
+    padding: 0%;
+
+
+
+
+    margin: 0%;
+}h1 {text-align: center;
+background-color: rgb(255 178 0);
+color: rgb(white);
+padding: 200px;
+}nav ul {
+    background-color: darkgrey;
+    width: 100%;
+    list-style-type: none;
+    text-align: center;
+}h2 {
+    text-align: center;
+    background-color: rgb(201 143 93);
+    color: rgb(beige);
+    padding: 400px;
+    }nav ul {
+        background-color: darkgrey;
+        width: 1000%;
+        list-style-type: none;
+        text-align: center;
